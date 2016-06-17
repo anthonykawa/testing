@@ -6,7 +6,6 @@ interface Traverser<E>
 
 public class Foothill
 {
-
    // ------- main --------------
    public static void main(String[] args) throws Exception
    {
